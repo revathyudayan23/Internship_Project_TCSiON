@@ -1,7 +1,7 @@
 # Internship Project - TCS iON
 
 ## 📌 Project Overview  
-This project focuses on **classifying drug reviews based on user satisfaction and side effects** using machine learning techniques. The dataset, sourced from WebMD, contains user reviews, effectiveness ratings, ease of use, and other attributes related to various drugs.  
+This project was completed as part of my internship at TCS iON. The objective of this project is to "Build a Calssification model to classify drugs based on their side effects. The project involves data preprocessing, analysis, visualization and model fitting  using Python."
 
 The project explores **two different approaches**:  
 1️⃣ **Text-Based Approach** – Uses NLP techniques to analyze drug reviews and predict satisfaction levels.  
