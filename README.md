@@ -36,7 +36,7 @@ Tools: Jupyter Notebook, Google Colab
 
 
 ## 📑 Project Report  
-📄 [View Project Report](Project_Report/your_project_report.pdf)  
+📄 [View Project Report](Project_Report)  
 
 
 ## 🚀 How to Use  
