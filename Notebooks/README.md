@@ -10,7 +10,7 @@ Approach 1 - Text Features (text_features.ipynb)
 
 Uses text-based features (drug reviews) for classification.
 Implements NLP techniques like TF-IDF and word embeddings.
-Explores models like Naive Bayes and LSTMs.
+Explores models like Naive Bayes.
 
 Approach 2 - Numerical Features (numerical_features.ipynb)
 
