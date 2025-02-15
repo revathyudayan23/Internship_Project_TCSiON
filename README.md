@@ -14,15 +14,12 @@ The workflow includes **Exploratory Data Analysis (EDA)**, **feature engineering
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Tools: Jupyter Notebook, Google Colab
----
 
 ## 📂 Project Structure  
 
 📁 **Notebooks/** → Contains all Jupyter notebooks[ for EDA & feature engineering.  
 📁 **Dataset/** → Kaggle dataset link. 
 📁 **Project_Report/** → Final project report in PDF format.
-
----
 
 ## 📊 Notebooks  
 
